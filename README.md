@@ -1,0 +1,1 @@
+Creating a basic keylogger program that records and logs keystrokes. Focus on logging the keyys pressed and saving them to a file. Note: Ethical considerations and permissions and crucial for projects involving keyloggers.
